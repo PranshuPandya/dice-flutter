@@ -1,3 +1,5 @@
+![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+
 
 # Dicee 🎲
 
@@ -12,7 +14,7 @@ We’re going to make a Las Vegas dice app. You can make the die roll at the pre
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
 
-## What I learn
+## What you will learn
 
 - How to use Flutter stateless widgets to design the user interface.
 - How to use Flutter stateful widgets to update the user interface.
@@ -24,5 +26,6 @@ We’re going to make a Las Vegas dice app. You can make the die roll at the pre
 - Learn about basic dart programming concepts such as data types and functions.
 - Code and use gesture controls.
 
->Special thanks to: [www.appbrewery.co](https://www.appbrewery.co/)
+>This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
+![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
